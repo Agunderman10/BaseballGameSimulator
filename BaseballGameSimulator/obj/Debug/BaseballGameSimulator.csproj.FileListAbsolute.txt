@@ -1,0 +1,7 @@
+C:\Users\Andrew Gunderman\Desktop\Code\Visual Studio\BaseballGameSimulator\BaseballGameSimulator\bin\Debug\BaseballGameSimulator.exe.config
+C:\Users\Andrew Gunderman\Desktop\Code\Visual Studio\BaseballGameSimulator\BaseballGameSimulator\bin\Debug\BaseballGameSimulator.exe
+C:\Users\Andrew Gunderman\Desktop\Code\Visual Studio\BaseballGameSimulator\BaseballGameSimulator\bin\Debug\BaseballGameSimulator.pdb
+C:\Users\Andrew Gunderman\Desktop\Code\Visual Studio\BaseballGameSimulator\BaseballGameSimulator\obj\Debug\BaseballGameSimulator.csprojAssemblyReference.cache
+C:\Users\Andrew Gunderman\Desktop\Code\Visual Studio\BaseballGameSimulator\BaseballGameSimulator\obj\Debug\BaseballGameSimulator.csproj.CoreCompileInputs.cache
+C:\Users\Andrew Gunderman\Desktop\Code\Visual Studio\BaseballGameSimulator\BaseballGameSimulator\obj\Debug\BaseballGameSimulator.exe
+C:\Users\Andrew Gunderman\Desktop\Code\Visual Studio\BaseballGameSimulator\BaseballGameSimulator\obj\Debug\BaseballGameSimulator.pdb
