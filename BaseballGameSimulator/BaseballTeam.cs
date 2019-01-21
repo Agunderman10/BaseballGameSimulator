@@ -9,6 +9,13 @@
         private int _losses = 0;
         private int _draws = 0;
 
+        //initial constructor
+        public BaseballTeam(string name, string stadium)
+        {
+            this._name = name;
+            this._stadium = stadium;
+        }
+
         //public property for the team's record
         public double Record
         {
@@ -27,13 +34,6 @@
             {
                 this._stadium = value;
             }
-        }
-
-        //initial constructor
-        public BaseballTeam(string name, string stadium)
-        {
-            this._name = name;
-            this._stadium = stadium;
         }
 
         //play game method looks increments wins and losses depending on runsFor or against

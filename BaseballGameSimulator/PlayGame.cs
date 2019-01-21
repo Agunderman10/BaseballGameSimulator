@@ -1,8 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
-
+﻿
 namespace BaseballGameSimulator
-{ 
+{
+    using System;
+
     class PlayGame
     {
         static void Main(string[] args)
@@ -21,9 +21,8 @@ namespace BaseballGameSimulator
             {
                 UserTeam.PlayGame(Random.Next(0, 10), Random.Next(0, 10));
             }
-
-            UserTeam.PlayGame(3,1);
-            UserTeam.PlayGame(ResultEnums.Win);
+            UserTeam.PlayGame(3,1); //demonstrate that we can put in a predetermined score
+            UserTeam.PlayGame(ResultEnums.Win); //demonstrate that we can put in enums into PlayGame's override
             UserTeam.PlayGame(ResultEnums.Lose);
             UserTeam.PlayGame(ResultEnums.Draw);
 
